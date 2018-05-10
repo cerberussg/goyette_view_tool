@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GoyetteViewTool::Renderer.copyright 'Scott Goyette', 'All rights reserved'
+```
 
 ## Development
 
